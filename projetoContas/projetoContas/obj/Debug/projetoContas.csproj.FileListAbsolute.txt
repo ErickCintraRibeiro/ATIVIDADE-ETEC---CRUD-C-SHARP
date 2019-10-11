@@ -1,0 +1,83 @@
+E:\projetoContas\projetoContas\bin\Debug\projetoContas.exe
+E:\projetoContas\projetoContas\bin\Debug\projetoContas.exe.config
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.frmPrincipal.resources
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.frmLogin.resources
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubUsuario.resources
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.Properties.Resources.resources
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.csproj.GenerateResource.Cache
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.exe
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.pdb
+E:\projetoContas\projetoContas\bin\Debug\projetoContas.pdb
+E:\projetoContas\projetoContas\obj\Debug\projetoContas.csprojResolveAssemblyReference.cache
+J:\projetoContas\projetoContas\bin\Debug\projetoContas.exe.config
+J:\projetoContas\projetoContas\obj\Debug\projetoContas.exe
+J:\projetoContas\projetoContas\obj\Debug\projetoContas.pdb
+J:\projetoContas\projetoContas\bin\Debug\projetoContas.exe
+J:\projetoContas\projetoContas\bin\Debug\projetoContas.pdb
+J:\projetoContas\projetoContas\obj\Debug\projetoContas.frmPrincipal.resources
+J:\projetoContas\projetoContas\obj\Debug\projetoContas.frmLogin.resources
+J:\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubUsuario.resources
+J:\projetoContas\projetoContas\obj\Debug\projetoContas.Properties.Resources.resources
+J:\projetoContas\projetoContas\obj\Debug\projetoContas.csproj.GenerateResource.Cache
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe.config
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.exe
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.pdb
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.pdb
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csprojResolveAssemblyReference.cache
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmPrincipal.resources
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmLogin.resources
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubUsuario.resources
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.Properties.Resources.resources
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csproj.GenerateResource.Cache
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubCliente.resources
+E:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubFornecedor.resources
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe.config
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.exe
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.pdb
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.pdb
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csprojResolveAssemblyReference.cache
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmPrincipal.resources
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmLogin.resources
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubFornecedor.resources
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubUsuario.resources
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubCliente.resources
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.Properties.Resources.resources
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csproj.GenerateResource.Cache
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\contas.mdf
+K:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\contas_log.ldf
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe.config
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.exe
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.pdb
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\contas.mdf
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\contas_log.ldf
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.pdb
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csprojResolveAssemblyReference.cache
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmPrincipal.resources
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmLogin.resources
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubContasPagar.resources
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubFornecedor.resources
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubUsuario.resources
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubCliente.resources
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.Properties.Resources.resources
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csproj.GenerateResource.Cache
+F:\PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubContasReceber.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe.config
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.exe
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.pdb
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\contas.mdf
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\contas_log.ldf
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.exe
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\bin\Debug\projetoContas.pdb
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csprojResolveAssemblyReference.cache
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubContasReceber.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmPrincipal.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmLogin.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubContasPagar.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubFornecedor.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubUsuario.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.frmsubCliente.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.Properties.Resources.resources
+K:\TÉCNICO\#  PROJETO DS - SEMESTRAL\projetoContas\projetoContas\obj\Debug\projetoContas.csproj.GenerateResource.Cache
